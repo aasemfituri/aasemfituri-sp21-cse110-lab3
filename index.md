@@ -32,3 +32,9 @@ I do think that the completion of the following classes will help me build more 
 - [ ] CSE 101
 - [ ] CSE 110
 
+Even though I learned some fundamental ideas in my previous classes such as the use of an `unordered_map` in C++, I believe that this class will help me transform this fundamental knowledge into something more concrete.
+
+I think that in order to be successful in this class I will need to:
+1. Watch the appropriate lectures
+2. Communicate with my team
+3. Ask questions when I am confused (both to my team and the instructors)
