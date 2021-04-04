@@ -1,24 +1,34 @@
 # Aasem Fituri's User Page
 ## About Me
-**I am a second year student at UCSD who is looking forward to learning the nuances of developing projects.**  
-_Some of my hobbies include surfing and playing video games._
-![image](https://user-images.githubusercontent.com/64988085/113460718-89d64880-93ce-11eb-90de-326a2ab8b030.png)  
-Del Mar, my favorite beach in San Diego (picture not taken by me).
+**I am a second year student at UCSD, who is planning on switching into CS and who is looking forward to learning the nuances and intricacies of developing more complex projects.**  
 
+_Some of my hobbies include surfing, basketball, and playing video games._   
+Here is a picture (not my own) of my favorite beach in San Diego, Del Mar.
+![image](https://user-images.githubusercontent.com/64988085/113460718-89d64880-93ce-11eb-90de-326a2ab8b030.png) 
 
-I prefer to live my life by following the golden rule:  
+My favorite 5 current-day NBA players in no particular order are:
+- LeBron James 
+- Chris Paul 
+- Stephen Curry  
+- Luka Doncic
+- Giannis Antetokounmpo
+
+I do not have any pets but if I were I would rather have a cat as opposed to a dog.  
+Here is a cute (not original) [cat picture](https://www.rd.com/wp-content/uploads/2019/05/American-shorthair-cat-scaled.jpg):  
+Here is another cute (not original) [cat picture](./cat.jpg)  
+
+In general, I try to live my life by following the golden rule:  
 > Treat others the way you want to be treated.  
 
-Here is a cute [cat picture](https://www.rd.com/wp-content/uploads/2019/05/American-shorthair-cat-scaled.jpg):  
-You can find my README.md [here](./README.md)
 
-The best 3 current-day NBA players (in my opinion) are:  
-1. LeBron James 
-2. Kevin Durant  
-3. Stephen Curry  
+## CS Background and Career Interests
+I am not very experienced with developing larger projects as most of my work in CS has been related to simple programs related to school.   
+***I have some knowledge of Java, C, C++, and the command line.***  
+**Despite my lack of knowledge of relatively complex programs, I do find the whole concept of _AI/machine learning_ quite fascinating and would like to get into the field in the future.**  
+I do not really have much experience in this field, but hopefully by the time I graduate I will have developed the skills necessary to enter this field.  
 
-Steps to Succeed in CSE 110:  
-- [x] Enroll in the class.
-- [ ] Watch lectures  
-- [ ] Cooperate with my group  
-- [ ] Succeed in the class  
+I do think that the completion of the following classes will help me build more complex projects in the future as well as help me get internships in the near future: 
+- [x] CSE 100
+- [ ] CSE 101
+- [ ] CSE 110
+
