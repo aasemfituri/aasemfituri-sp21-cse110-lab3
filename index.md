@@ -28,9 +28,9 @@ I am not very experienced with developing larger projects as most of my work in 
 I do not really have much experience in this field, but hopefully by the time I graduate I will have developed the skills necessary to enter this field.  
 
 I do think that the completion of the following classes will help me build more complex projects in the future as well as help me get internships in the near future: 
-- [x] CSE 100
-- [ ] CSE 101
-- [ ] CSE 110
+- [x]  CSE 100
+- [ ]  CSE 101
+- [ ]  CSE 110
 
 Even though I learned some fundamental ideas in my previous classes such as the use of an `unordered_map` in C++, I believe that this class will help me transform this fundamental knowledge into something more concrete.
 
