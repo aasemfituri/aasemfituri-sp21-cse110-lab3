@@ -1,1 +1,1 @@
-https://aasemfituri.github.io/sp21-cse110-lab3/
+https://aasemfituri.github.io/sp21-cse110-lab3/Lab2
