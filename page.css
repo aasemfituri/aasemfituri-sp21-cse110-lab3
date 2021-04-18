@@ -1,0 +1,103 @@
+* {
+    background-color: lightblue;
+}
+h3 {
+    border-style:double;
+    border-color: darkcyan;
+    display: inline;
+    border-radius: 5px;
+    border-width: 4px;
+    padding: 2px 3px;
+}
+h1 {
+    display: inline-block;
+    padding-left: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-right: 5px;
+}
+h4 {
+    margin-right: 100px;
+    margin-left: 1cm;
+}
+hr{
+    margin-bottom: 0.6cm;
+    margin-top: 2vw;
+    margin-left: 5px;
+}
+
+.Entry {
+    margin: 2mm;
+    display: inline;
+    position: relative;
+    bottom: 0.5vmin;
+}
+p {
+    margin: 1em;
+    width: 450px;
+}
+/* Style the label for the "Title" in the form */
+#Title {
+    color: rgba(109, 20, 211, 0.8);
+    margin:auto;
+}
+
+/* Change the color of "color" in the form */
+[for="color"] {
+    color: #F00
+}
+
+
+section {
+    display: flex;
+    flex-direction:row-reverse;
+    flex-wrap:wrap;
+    justify-content:center;
+    height: 800px;
+}
+
+/* Turns the h1 heading (Aasem's Journal) red when you mouseover it */
+h1:hover {
+    color: firebrick;
+}
+
+/* Make the Yes and No labels green in the form */
+[for="Yes"], [for="No"] {
+    color:green;
+}
+
+a:active {
+    color: darkgreen;
+}
+
+fieldset {
+    display: grid;
+    grid-template-rows: 50px 50px 50px 50px 50px 50px 50px;
+    grid-auto-flow:row;
+    justify-content: center;
+    grid-row-gap: 1px;
+}
+
+@media (max-width: 1000px) and (min-width:350px)
+{
+    section {
+        display: inline;
+    }
+    [for="color"] {
+        color: black;
+    }
+    #Title {
+        color: black
+    }
+    p {
+        width: 300px;
+    }
+}
+
+p.two {
+    width:500px;
+}
+
+img {
+    position:static;
+}
